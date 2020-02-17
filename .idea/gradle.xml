@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT" />
+        </compositeConfiguration>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/HP-Cardview" />
+            <option value="$PROJECT_DIR$/HP-RecyclerCardView" />
+            <option value="$PROJECT_DIR$/HPCardViewKawaii" />
+            <option value="$PROJECT_DIR$/HP_Alquileres" />
+            <option value="$PROJECT_DIR$/HP_AlquileresImportado" />
+            <option value="$PROJECT_DIR$/HP_ListView" />
+            <option value="$PROJECT_DIR$/HP_ListViewCortado" />
+            <option value="$PROJECT_DIR$/Pruebas" />
+            <option value="$PROJECT_DIR$/UD_RecyclerCardView" />
+            <option value="$PROJECT_DIR$/UD_RecyclerView" />
+            <option value="$PROJECT_DIR$/ejemplogooglemaps" />
+            <option value="$PROJECT_DIR$/intenciones" />
+            <option value="$PROJECT_DIR$/localizacion" />
+            <option value="$PROJECT_DIR$/mislugares" />
+            <option value="$PROJECT_DIR$/mislugaresNoBD" />
+            <option value="$PROJECT_DIR$/mislugarescursoCorregido" />
+            <option value="$PROJECT_DIR$/mobile" />
+            <option value="$PROJECT_DIR$/permisosenmarshmallow" />
+            <option value="$PROJECT_DIR$/tv" />
+            <option value="$PROJECT_DIR$/x-activity" />
+            <option value="$PROJECT_DIR$/x-barra" />
+            <option value="$PROJECT_DIR$/x-comunicacionactividades" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
